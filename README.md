@@ -2,7 +2,7 @@
 
 https://chocolateday.herokuapp.com
 
-//in devoloping phase
+In devoloping phase :)
 
 This is my first flask website created using flask and jinja2(requires for extending html and css file) .
 (deployed on the day of chocolate day :) )
